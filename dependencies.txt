@@ -1,0 +1,15 @@
+sudo apt-get update
+sudo apt-get install arp-scan
+sudo apt-get install nmap
+sudo apt-get install honeyd
+
+pip install nmap
+pip install pandas
+pip install firebase-admin
+pip3 install pyhoneyd
+
+
+###Ensure all scripts are in executable mode:
+###chmod +x firebase_config.py network_device_scan.py 
+###network_device_scan_periodic.py network_ports_scan.py
+
