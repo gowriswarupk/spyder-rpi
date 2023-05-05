@@ -12,6 +12,7 @@ To install the project, follow these steps:
 
 ```
 git clone https://github.com/yourusername/spyder-rpi.git
+
 ```
 
 
@@ -19,12 +20,7 @@ git clone https://github.com/yourusername/spyder-rpi.git
 
 ## Usage
 
-To use the project, follow these steps:
-
-1. 
-2.
-3. 
-4. 
+To use the project, follow the official documentation:
 
 ## Contributing
 

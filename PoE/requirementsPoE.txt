@@ -1,0 +1,4 @@
+sudo apt-get install python3 network-manager nmap tshark
+sudo pip3 install wifi
+sudo pip install python-nmap
+
